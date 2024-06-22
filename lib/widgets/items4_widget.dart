@@ -6,8 +6,8 @@ import 'package:restoranapps/screens/single_item_screens.dart';
 class Item4Widget extends StatelessWidget {
   List img = [
     'Donat classic',
-    'Donat Round',
-    'Donat butter',
+    'Donat matcha',
+    'Donat coklat',
     'Donat peanuts',
   ];
   @override

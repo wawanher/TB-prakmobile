@@ -8,7 +8,7 @@ class ItemWidget extends StatelessWidget {
   // List<Product> dummyData = List.generate(40, (index) {
   //   return Product(name, image, price, stock);
   // });
-   List img = [
+  List img = [
     'rye bread classic',
     'rye bread Round',
     'rye bread butter',

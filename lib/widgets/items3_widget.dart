@@ -5,10 +5,10 @@ import 'package:restoranapps/screens/single_item_screens.dart';
 // ignore: must_be_immutable
 class Item3Widget extends StatelessWidget {
   List img = [
-    'Bage classic',
-    'Bage Round',
-    'Bage butter',
-    'Bage peanuts',
+    'Bagel classic',
+    'Bagel black',
+    'Bagel cinamon',
+    'Bagel peanuts',
   ];
   @override
   Widget build(BuildContext context) {
