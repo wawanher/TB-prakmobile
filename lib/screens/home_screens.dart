@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:restoranapps/screens/sidebar_screens.dart';
-import 'package:restoranapps/screens/notifications_screens.dart';
 import 'package:restoranapps/widgets/bottombar/home_bottom.dart';
 import 'package:restoranapps/widgets/items2_widget.dart';
 import 'package:restoranapps/widgets/items4_widget.dart';
@@ -58,20 +57,6 @@ class _HomeScreensState extends State<HomeScreens>
                       },
                       child: Icon(
                         Icons.sort_rounded,
-                        color: Colors.black.withOpacity(0.5),
-                        size: 35,
-                      ),
-                    ),
-                    InkWell(
-                      onTap: () {
-                        Navigator.push(
-                            context,
-                            MaterialPageRoute(
-                              builder: (context) => NotificationScreens(),
-                            ));
-                      },
-                      child: Icon(
-                        Icons.notifications,
                         color: Colors.black.withOpacity(0.5),
                         size: 35,
                       ),
