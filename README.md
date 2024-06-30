@@ -2,10 +2,10 @@
 
 Nama Aplikasi: Bakery
 
-Kelompok 2
-Zihan Melinda (2106103)
-wawan hermawan (2106144)
-sholeh (2106160)
+Kelompok 2 <br>
+Zihan Melinda (2106103) <br>
+wawan hermawan (2106144) <br>
+sholeh (2106160) <br>
 
 Fitur fitur yang tersedia:
 1.Profil:Berisi informasi dari pemilik akun
